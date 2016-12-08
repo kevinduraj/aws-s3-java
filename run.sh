@@ -6,7 +6,7 @@
 
 elif [ "$1" == "1" ] 2>/dev/null; then
     # mvn exec:java -Dexec.mainClass=kduraj.App
-    java -cp target/aws-sfk-java-1.0.0-jar-with-dependencies.jar kduraj.App
+    java -cp target/aws-s3-java-1.0.0-jar-with-dependencies.jar kduraj.App
 
 #--------------------------------------------------------------------------------------------------------------------#
 else
