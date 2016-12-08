@@ -1,0 +1,192 @@
+{
+  "columnHeaders": [
+    {
+      "columnType": "DIMENSION",
+      "dataType": "STRING",
+      "name": "day"
+    },
+    {
+      "columnType": "METRIC",
+      "dataType": "INTEGER",
+      "name": "views"
+    },
+    {
+      "columnType": "METRIC",
+      "dataType": "INTEGER",
+      "name": "likes"
+    },
+    {
+      "columnType": "METRIC",
+      "dataType": "INTEGER",
+      "name": "dislikes"
+    },
+    {
+      "columnType": "METRIC",
+      "dataType": "INTEGER",
+      "name": "comments"
+    },
+    {
+      "columnType": "METRIC",
+      "dataType": "INTEGER",
+      "name": "averageViewDuration"
+    },
+    {
+      "columnType": "METRIC",
+      "dataType": "INTEGER",
+      "name": "estimatedMinutesWatched"
+    },
+    {
+      "columnType": "METRIC",
+      "dataType": "INTEGER",
+      "name": "subscribersGained"
+    },
+    {
+      "columnType": "METRIC",
+      "dataType": "INTEGER",
+      "name": "subscribersLost"
+    },
+    {
+      "columnType": "METRIC",
+      "dataType": "FLOAT",
+      "name": "annotationClickThroughRate"
+    },
+    {
+      "columnType": "METRIC",
+      "dataType": "FLOAT",
+      "name": "averageViewPercentage"
+    }
+  ],
+  "kind": "youtubeAnalytics#resultTable",
+  "rows": [
+    [
+      "2016-10-17",
+      3.0,
+      0.0,
+      0.0,
+      0.0,
+      49.0,
+      2.0,
+      0.0,
+      0.0,
+      0.0,
+      14.177333333333333
+    ],
+    [
+      "2016-10-19",
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      37.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      10.687714285714286
+    ],
+    [
+      "2016-11-15",
+      4.0,
+      0.0,
+      0.0,
+      0.0,
+      94.0,
+      6.0,
+      1.0,
+      0.0,
+      0.0,
+      27.027142857142856
+    ],
+    [
+      "2016-11-16",
+      4.0,
+      0.0,
+      0.0,
+      0.0,
+      95.0,
+      6.0,
+      0.0,
+      0.0,
+      0.0,
+      27.386357142857143
+    ],
+    [
+      "2016-11-17",
+      4.0,
+      1.0,
+      0.0,
+      1.0,
+      189.0,
+      12.0,
+      1.0,
+      0.0,
+      0.0,
+      54.11314285714286
+    ],
+    [
+      "2016-11-18",
+      4.0,
+      0.0,
+      0.0,
+      0.0,
+      7.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      2.2087142857142856
+    ],
+    [
+      "2016-11-30",
+      8.0,
+      4.0,
+      0.0,
+      1.0,
+      55.0,
+      7.0,
+      0.0,
+      0.0,
+      0.0,
+      15.726107142857144
+    ],
+    [
+      "2016-12-02",
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.13942857142857143
+    ],
+    [
+      "2016-12-03",
+      2.0,
+      0.0,
+      0.0,
+      0.0,
+      10.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      3.064285714285714
+    ],
+    [
+      "2016-12-05",
+      5.0,
+      0.0,
+      0.0,
+      1.0,
+      57.0,
+      4.0,
+      0.0,
+      0.0,
+      0.0,
+      16.301428571428573
+    ]
+  ]
+}
