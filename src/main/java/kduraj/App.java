@@ -13,7 +13,7 @@ public class App {
         // String bucketName = UUID.randomUUID();
        
         S3FileManager s3 = new S3FileManager();
-        s3.uploadFile("youtube-json", "/Users/kevinduraj/UC5QHW3FOSmvkj4l39x5LeIw.json");
+        s3.uploadFile("bucket-youtube-json", "/Users/kevinduraj/UC5QHW3FOSmvkj4l39x5LeIw.json");
         s3.listFiles();
         
     }
